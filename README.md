@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-Rock, Paper, Scissors» game.
+"Rock, Paper, Scissors" game.
 
 # Game rules:
 - User vs an app itself.
